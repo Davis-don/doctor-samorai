@@ -1,0 +1,15 @@
+.overall-header-component{
+background-color: black;
+padding-block: .5rem;
+}
+.overall-header-component ul{
+display: flex;
+flex-direction: row;
+gap: 1.5rem;
+list-style: none;
+justify-content: center;
+}
+.overall-header-component ul li{
+font-size: 1.5rem;
+color: white;
+}
